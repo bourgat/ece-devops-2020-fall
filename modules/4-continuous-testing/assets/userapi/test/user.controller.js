@@ -31,19 +31,19 @@ describe('User', () => {
       })
     })
 
-    // it('avoid creating an existing user', (done)=> {
-    //   // TODO create this test
-    //   // Warning: the user already exists
-    //   done()
-    // })
+    //it('avoid creating an existing user', (done)=> {
+       // TODO create this test
+       // Warning: the user already exists
+        //done()
+    //})
   })
 
-  // describe('Get', ()=> {
-  //   // TODO Create test for the get method
-  //   it('get a user by username', (done) => {
-  //     // 1. First, create a user to make this unit test independent from the others
-  //     // 2. Then, check if the result of the get method is correct
-  //     done()
-  //   })
-  // })
+  //describe('Get', ()=> {
+     // TODO Create test for the get method
+    //it('get a user by username', (done) => {
+      // 1. First, create a user to make this unit test independent from the others
+      // 2. Then, check if the result of the get method is correct
+      //done()
+    //})
+  //})
 })
