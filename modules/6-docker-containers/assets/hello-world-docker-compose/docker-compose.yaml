@@ -8,4 +8,5 @@ services:
     ports:
       - "5000:8080"
     environment:
-      # ...
+      - REDIS_HOSTS=redis:6379
+
